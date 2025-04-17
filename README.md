@@ -1,0 +1,2 @@
+# Pizza-Sales-Report-Analysis-for-2015-with-Best-Selling-and-Worst-Selling-Predictions-in-Power-BI
+This Power BI report provides an in-depth analysis of pizza sales for the year 2015, offering valuable insights into overall sales performance, product popularity, regional trends, and customer preferences. Additionally, the dashboard includes predictive analysis to forecast the best-selling and worst-selling pizza types.
